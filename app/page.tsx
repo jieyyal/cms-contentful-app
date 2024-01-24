@@ -31,6 +31,7 @@ function Intro() {
           {CMS_NAME}
         </a>
         .
+        <p>Maintained by Jieyyal.</p>
       </h2>
     </section>
   );
